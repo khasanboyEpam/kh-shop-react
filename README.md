@@ -10,6 +10,8 @@ https://d3sgiwvr1nfgrt.cloudfront.net/
 
 task-4 is done on BE side
 
+task-5
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
